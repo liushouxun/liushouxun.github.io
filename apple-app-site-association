@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "A7YWCZ9RQG.com.tjf.miyouapp",
+        "paths": [
+          "/miyou/*"
+        ]
+      },
+      {
+        "appID": "A7YWCZ9RQG.com.store.hwapp.miyouApp",
+        "paths": [
+          "/miyou/*"
+        ]
+      },
+    ]
+  }
+}
