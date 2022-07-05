@@ -9,11 +9,11 @@
         ]
       },
       {
-        "appID": "A7YWCZ9RQG.com.store.hwapp.miyouApp",
+        "appID": "697GLTC7Z6.com.store.hwapp.miyouApp",
         "paths": [
           "/miyou/*"
         ]
-      },
+      }
     ]
   }
 }
