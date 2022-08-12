@@ -13,6 +13,12 @@
         "paths": [
           "/miyou/*"
         ]
+      },
+      {
+        "appID": "697GLTC7Z6.com.xjbg.test.project",
+        "paths": [
+          "/tykjvaluation/*"
+        ]
       }
     ]
   }
